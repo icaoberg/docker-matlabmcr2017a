@@ -1,10 +1,10 @@
 FROM ubuntu:16.04 as intermediate
 
 ###############################################################################################
-MAINTAINER Ivan E. Cao-Berg <icaoberg@andrew.cmu.edu>
-LABEL Description="Ubuntu 16.04 + MATLAB MCR 2017a"
-LABEL Vendor="Murphy Lab in the Computational Biology Department at Carnegie Mellon University"
-LABEL Web="http://murphylab.cbd.cmu.edu"
+MAINTAINER Ivan E. Cao-Berg <icaoberg@alumni.cmu.edu>
+LABEL Description="MATLAB MCR 2017a"
+LABEL Vendor="Computational Biology Department at Carnegie Mellon University"
+LABEL Web="http://linus.cbd.cmu.edu"
 LABEL Version="2017a"
 ###############################################################################################
 
